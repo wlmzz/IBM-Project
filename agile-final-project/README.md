@@ -26,7 +26,7 @@ Your grade will be based on completing the following tasks:
 
 ### Task 1 – Kanban Board URL (1 pt)
 Submit the **URL** of your final project Kanban board.  
-Example: `https://github.com/yourusername/yourproject/projects/1`
+URL: `https://github.com/wlmzz/IBM-Project/edit/main/agile-final-project/`
 
 ### Task 2 – GitHub Issue Template (1 pt)
 Create and include a **GitHub ISSUE_TEMPLATE** file in your repository.
